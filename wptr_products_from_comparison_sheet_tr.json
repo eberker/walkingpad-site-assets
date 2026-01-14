@@ -1,9 +1,11 @@
 {
-  "version": "2025-12-31-tr",
+  "version": "2026-01-14-tr+webdims",
   "locale": "tr-TR",
   "source_files": [
     "WalkingPad 2025 Product comparison sheet.xlsx",
-    "wptr_guncel_model_listesi.xlsx"
+    "wptr_guncel_model_listesi.xlsx",
+    "WalkingPad_Benchmarking_old.xlsx (selected fields)",
+    "walkingpad.com comparison page (dims/area)"
   ],
   "products": [
     {
@@ -15,7 +17,7 @@
       "specs": {
         "product": "X218",
         "model": "WP510B4",
-        "colour": "1. Black",
+        "colour": "Siyah",
         "category": "Treadmill",
         "motor": "Brushless 1.75HP 1400W",
         "speed": "1-18 km/h",
@@ -53,7 +55,7 @@
       "specs_tr": {
         "Ürün": "X218",
         "Model": "WP510B4",
-        "Renk": "1. Black",
+        "Renk": "Siyah",
         "Kategori": "Treadmill",
         "Motor": "Brushless 1,75bg 1400W",
         "Hız": "1-18 km/s",
@@ -82,7 +84,14 @@
         "Koli Ölçüsü": "115,8*96*33 cm",
         "20gp": "84",
         "40gp": "167",
-        "40hq": "196"
+        "40hq": "196",
+        "Maks. Kullanıcı Ağırlığı": "136 kg",
+        "Net Ağırlık": "61.1 kg",
+        "Brüt Ağırlık": "69.5 kg",
+        "Koşu Alanı": "140 × 51 cm",
+        "Açık Ölçü": "161.8 × 83.8 × 108 cm",
+        "Katlı Ölçü": "108 × 83.8 × 29.5 cm",
+        "Güç (Nominal)": "Brushless 1,75bg 1400W"
       },
       "category_tr": "Koşu Bandı"
     },
@@ -92,10 +101,80 @@
       "category": "running",
       "url": "https://www.walkingpadturkiye.com/walkingpad-x23-katlanabilir-kosu-bandi-x21in-guncellenmis-versiyonu-global-mx16-us-x25-40",
       "image": "https://static.ticimax.cloud/64706/Uploads/UrunResimleri/buyuk/kingsmith-walkingpad-x23-katlanabilir--e08b75.gif",
-      "specs": {},
-      "specs_source": null,
-      "specs_tr": {},
-      "category_tr": "Koşu Bandı"
+      "specs": {
+        "product": "X23",
+        "model": "TRMX16F",
+        "colour": "Gri",
+        "category": "Treadmill",
+        "motor": "Brushless 1.25HP",
+        "speed": "1-16 km/h",
+        "running_surface": "132×50cm",
+        "n_w": "47",
+        "g_w": "54",
+        "folding_way": "Fully Foldable, 2 times",
+        "maximum_user_weight": "136",
+        "panel": "Yes",
+        "panel_display": "Time, speed, distance, calories, steps",
+        "bluetooth": "Yes",
+        "app": "KS FIT",
+        "inclination": "No",
+        "massage": "No",
+        "speaker": "No",
+        "heart_rate": "No",
+        "height_adjustable_handrail": "No",
+        "voltage": "220V",
+        "frequency": "50-60Hz",
+        "frame_material": "Aluminum alloy",
+        "unfolded_dimensions": "154.5×77.4×102.4 cm",
+        "folded_dimension": "25.9×77.4×102.4 cm"
+      },
+      "specs_source": {
+        "sheet": "WalkingPad 2025 Product comparison sheet.xlsx",
+        "product_code": "X23",
+        "note": "Filled from TR tech specs; model code provided by user"
+      },
+      "specs_tr": {
+        "Hız Aralığı": "1 – 16 km/s",
+        "Motor": "Fırçasız Motor 1,25 HP",
+        "Net Ağırlık": "47 kg",
+        "Brüt Ağırlık": "54 kg",
+        "Maks. Kullanıcı Ağırlığı": "136 kg",
+        "Açık Ölçü": "154.5 × 77.4 × 102.4 cm",
+        "Katlı Ölçü": "25.9 × 77.4 × 102.4 cm",
+        "Koşu Alanı": "132 × 50 cm",
+        "Katlanabilir": "Evet",
+        "Kurulum": "Kurulu (montaj gerektirmez)",
+        "Global Model": "X25 / MX16",
+        "Ürün": "X23",
+        "Model": "TRMX16F",
+        "Model Kodu": "TRMX16F",
+        "Renk": "Gri",
+        "Kategori": "Treadmill",
+        "Hız": "1-16 km/s",
+        "running_surface": "132×50cm",
+        "n_w": "47",
+        "g_w": "54",
+        "folding_way": "Fully Katlanabilir, 2 times",
+        "panel": "Evet",
+        "panel_display": "Zaman, Hız, Mesafe, Kalori, Adımlar",
+        "Bluetooth": "Evet",
+        "Uygulama": "KS Fit",
+        "inclination": "Hayır",
+        "Masaj": "Yok",
+        "Hoparlör": "Yok",
+        "Nabız Ölçme Sistemi": "Yok",
+        "Tutma Kolu Yükseklik Ayarı": "Yok",
+        "Voltaj": "220V",
+        "Frekans": "50-60Hz",
+        "Gövde Materyali": "Alüminyum Alaşımlı",
+        "Güç (Nominal)": "Fırçasız 1,25 HP"
+      },
+      "category_tr": "Koşu Bandı",
+      "global_name": "WalkingPad X25 / MX16",
+      "global_models": [
+        "X25",
+        "MX16"
+      ]
     },
     {
       "id": "walkingpad-r2-pro-katlanabilir-kosu-ve-yurume-bandi-8",
@@ -106,7 +185,7 @@
       "specs": {
         "product": "R2",
         "model": "TRR2FB",
-        "colour": "1. Black",
+        "colour": "Siyah",
         "category": "Walkingpad&Treadmill",
         "motor": "Brushless 1.25HP 918W",
         "speed": "0.5-12 km/h",
@@ -144,7 +223,7 @@
       "specs_tr": {
         "Ürün": "R2",
         "Model": "TRR2FB",
-        "Renk": "1. Black",
+        "Renk": "Siyah",
         "Kategori": "Walkingpad&Treadmill",
         "Motor": "Brushless 1,25bg 918W",
         "Hız": "0,5-12 km/s",
@@ -173,7 +252,14 @@
         "Koli Ölçüsü": "109*77*21 cm",
         "20gp": "162",
         "40gp": "330pcs",
-        "40hq": "385"
+        "40hq": "385",
+        "Maks. Kullanıcı Ağırlığı": "110 kg",
+        "Net Ağırlık": "36 kg",
+        "Brüt Ağırlık": "40.5 kg",
+        "Koşu Alanı": "120 × 44 cm",
+        "Açık Ölçü": "145.2 × 72 × 103.2 cm",
+        "Katlı Ölçü": "100 × 72 × 16.2 cm",
+        "Güç (Nominal)": "Brushless 1,25bg 918W"
       },
       "category_tr": "Yürüyüş + Koşu (2’si 1 arada)"
     },
@@ -186,7 +272,7 @@
       "specs": {
         "product": "Z3 hybrid+",
         "model": "WP400Q42",
-        "colour": "1. Black",
+        "colour": "Siyah",
         "category": "Walkingpad&Treadmill",
         "motor": "Brushless 1HP 735W",
         "speed": "1-10 km/h",
@@ -224,7 +310,7 @@
       "specs_tr": {
         "Ürün": "Z3 hybrid+",
         "Model": "WP400Q42",
-        "Renk": "1. Black",
+        "Renk": "Siyah",
         "Kategori": "Walkingpad&Treadmill",
         "Motor": "Brushless 1bg 735W",
         "Hız": "1-10 km/s",
@@ -253,20 +339,27 @@
         "Koli Ölçüsü": "114,5*76*24 cm",
         "20gp": "139",
         "40gp": "270",
-        "40hq": "348"
+        "40hq": "348",
+        "Maks. Kullanıcı Ağırlığı": "110 kg",
+        "Net Ağırlık": "38.7 kg",
+        "Brüt Ağırlık": "44.7 kg",
+        "Koşu Alanı": "120 × 40 cm",
+        "Açık Ölçü": "147.1 × 76.5 × 102.9 cm",
+        "Katlı Ölçü": "100.8 × 76.5 × 19.3 cm",
+        "Güç (Nominal)": "Brushless 1bg 735W"
       },
       "category_tr": "Yürüyüş + Koşu (2’si 1 arada)"
     },
     {
       "id": "walkingpad-r1-pro-katlanabilir-kosu-ve-yuruyus-bandi-global-versiyon-6",
       "name": "Kingsmith Walkingpad R1 Pro Global Versiyon",
-      "category": "other",
+      "category": "hybrid",
       "url": "https://www.walkingpadturkiye.com/walkingpad-r1-pro-katlanabilir-kosu-ve-yuruyus-bandi-global-versiyon-6",
       "image": "https://static.ticimax.cloud/64706/Uploads/UrunResimleri/buyuk/kingsmith-walkingpad-r1-pro-katlanabil-fd3-16.gif",
       "specs": {
         "product": "R1 Pro",
         "model": "TRR1F PRO",
-        "colour": "1. Black\n2. Silver grey",
+        "colour": "Siyah\n2. Silver grey",
         "category": "Walkingpad&Treadmill",
         "motor": "Brushless 1.25HP 918W",
         "speed": "0.5-10 km/h",
@@ -304,7 +397,7 @@
       "specs_tr": {
         "Ürün": "R1 Pro",
         "Model": "TRR1F PRO",
-        "Renk": "1. Black 2. Silver grey",
+        "Renk": "Siyah 2. Silver grey",
         "Kategori": "Walkingpad&Treadmill",
         "Motor": "Brushless 1,25bg 918W",
         "Hız": "0,5-10 km/s",
@@ -333,9 +426,16 @@
         "Koli Ölçüsü": "106,2*76,6*20,9 cm",
         "20gp": "142",
         "40gp": "300",
-        "40hq": "358"
+        "40hq": "358",
+        "Maks. Kullanıcı Ağırlığı": "110 kg",
+        "Net Ağırlık": "33 kg",
+        "Brüt Ağırlık": "38 kg",
+        "Koşu Alanı": "120 × 44 cm",
+        "Açık Ölçü": "46 × 72 × 9 cm",
+        "Katlı Ölçü": "98 × 72 × 15.5 cm",
+        "Güç (Nominal)": "Brushless 1,25bg 918W"
       },
-      "category_tr": "other"
+      "category_tr": "Yürüyüş + Koşu (2’si 1 arada)"
     },
     {
       "id": "walkingpad-a1-pro-katlanabilir-yurume-bandi-global-versiyon-5",
@@ -346,7 +446,7 @@
       "specs": {
         "product": "A1 Pro",
         "model": "WPA1F PRO",
-        "colour": "1. Black",
+        "colour": "Siyah",
         "category": "Walkingpad",
         "motor": "Brushless 1 HP 750W",
         "speed": "0.5-6 km/h",
@@ -385,7 +485,7 @@
       "specs_tr": {
         "Ürün": "A1 Pro",
         "Model": "WPA1F PRO",
-        "Renk": "1. Black",
+        "Renk": "Siyah",
         "Kategori": "Walkingpad",
         "Motor": "Brushless 1 bg 750W",
         "Hız": "0,5-6 km/s",
@@ -415,14 +515,21 @@
         "20gp": "250",
         "40gp": "526",
         "40hq": "570",
-        "note": "Handrail optional"
+        "note": "Handrail optional",
+        "Maks. Kullanıcı Ağırlığı": "105 kg",
+        "Net Ağırlık": "27 kg",
+        "Brüt Ağırlık": "30 kg",
+        "Yürüyüş Alanı": "120 × 41,5 cm",
+        "Açık Ölçü": "143.2 × 54.7 × 12.9 cm",
+        "Katlı Ölçü": "82.2 × 54.7 × 12.9 cm",
+        "Güç (Nominal)": "Brushless 1 bg 750W"
       },
       "category_tr": "Yürüyüş Bandı"
     },
     {
       "id": "walkingpad-c2-pro-katlanabilir-yurume-bandi-4-farkli-renk-secenegi-sari-12",
       "name": "Kingsmith Walkingpad C2 Pro - Sarı",
-      "category": "other",
+      "category": "walking",
       "url": "https://www.walkingpadturkiye.com/walkingpad-c2-pro-katlanabilir-yurume-bandi-4-farkli-renk-secenegi-sari-12",
       "image": "https://static.ticimax.cloud/64706/Uploads/UrunResimleri/buyuk/walkingpad-c2-pro-katlanabilir-yurume--3b914b.jpg",
       "specs": {
@@ -497,9 +604,22 @@
         "20gp": "250",
         "40gp": "538",
         "40hq": "583",
-        "note": "Handrail optional"
+        "note": "Handrail optional",
+        "Maks. Kullanıcı Ağırlığı": "100 kg",
+        "Net Ağırlık": "25 kg",
+        "Brüt Ağırlık": "28 kg",
+        "Yürüyüş Alanı": "120 × 40 cm",
+        "Açık Ölçü": "144.5 × 51.8 × 12.5 cm",
+        "Katlı Ölçü": "82.5 × 51.8 × 13.6 cm",
+        "Güç (Nominal)": "Brushless 1bg 735W",
+        "Global Model": "C2 / S1"
       },
-      "category_tr": "other"
+      "category_tr": "other",
+      "global_name": "WalkingPad C2 (S1)",
+      "global_models": [
+        "C2",
+        "S1"
+      ]
     },
     {
       "id": "walkingpad-c2-pro-katlanabilir-yurume-bandi-4-farkli-renk-secenegi-kirmizi-10",
@@ -579,14 +699,26 @@
         "20gp": "250",
         "40gp": "538",
         "40hq": "583",
-        "note": "Handrail optional"
+        "note": "Handrail optional",
+        "Maks. Kullanıcı Ağırlığı": "100 kg",
+        "Net Ağırlık": "25 kg",
+        "Brüt Ağırlık": "28 kg",
+        "Açık Ölçü": "144.5 × 51.8 × 12.5 cm",
+        "Katlı Ölçü": "82.5 × 51.8 × 13.6 cm",
+        "Güç (Nominal)": "Brushless 1bg 735W",
+        "Global Model": "C2 / S1"
       },
-      "category_tr": "other"
+      "category_tr": "Yürüyüş Bandı",
+      "global_name": "WalkingPad C2 (S1)",
+      "global_models": [
+        "C2",
+        "S1"
+      ]
     },
     {
       "id": "walkingpad-c2-pro-katlanabilir-yurume-bandi-4-farkli-renk-secenegi-mavi",
       "name": "Kingsmith Walkingpad C2 Pro - Mavi",
-      "category": "other",
+      "category": "walking",
       "url": "https://www.walkingpadturkiye.com/walkingpad-c2-pro-katlanabilir-yurume-bandi-4-farkli-renk-secenegi-mavi",
       "image": "https://static.ticimax.cloud/64706/uploads/urunresimleri/buyuk/walkingpad-c2-pro-katlanabilir-yurume--1a-dff.jpg",
       "specs": {
@@ -661,14 +793,27 @@
         "20gp": "250",
         "40gp": "538",
         "40hq": "583",
-        "note": "Handrail optional"
+        "note": "Handrail optional",
+        "Maks. Kullanıcı Ağırlığı": "100 kg",
+        "Net Ağırlık": "25 kg",
+        "Brüt Ağırlık": "28 kg",
+        "Yürüyüş Alanı": "120 × 40 cm",
+        "Açık Ölçü": "144.5 × 51.8 × 12.5 cm",
+        "Katlı Ölçü": "82.5 × 51.8 × 13.6 cm",
+        "Güç (Nominal)": "Brushless 1bg 735W",
+        "Global Model": "C2 / S1"
       },
-      "category_tr": "other"
+      "category_tr": "Yürüyüş Bandı",
+      "global_name": "WalkingPad C2 (S1)",
+      "global_models": [
+        "C2",
+        "S1"
+      ]
     },
     {
       "id": "walkingpad-c2-pro-katlanabilir-yurume-bandi-4-farkli-renk-secenegi-siyah-11",
       "name": "Kingsmith Walkingpad C2 Pro - Siyah",
-      "category": "other",
+      "category": "walking",
       "url": "https://www.walkingpadturkiye.com/walkingpad-c2-pro-katlanabilir-yurume-bandi-4-farkli-renk-secenegi-siyah-11",
       "image": "https://static.ticimax.cloud/cdn-cgi/image/width=548,quality=85/64706/uploads/urunresimleri/buyuk/walkingpad-c2-pro-katlanabilir-yurume--4227-b.jpg",
       "specs": {
@@ -743,14 +888,27 @@
         "20gp": "250",
         "40gp": "538",
         "40hq": "583",
-        "note": "Handrail optional"
+        "note": "Handrail optional",
+        "Maks. Kullanıcı Ağırlığı": "100 kg",
+        "Net Ağırlık": "25 kg",
+        "Brüt Ağırlık": "28 kg",
+        "Yürüyüş Alanı": "120 × 40 cm",
+        "Açık Ölçü": "144.5 × 51.8 × 12.5 cm",
+        "Katlı Ölçü": "82.5 × 51.8 × 13.6 cm",
+        "Güç (Nominal)": "Brushless 1bg 735W",
+        "Global Model": "C2 / S1"
       },
-      "category_tr": "other"
+      "category_tr": "Yürüyüş Bandı",
+      "global_name": "WalkingPad C2 (S1)",
+      "global_models": [
+        "C2",
+        "S1"
+      ]
     },
     {
       "id": "walkingpad-c2-pro-katlanabilir-yurume-bandi-4-farkli-renk-secenegi-beyaz-9",
       "name": "Kingsmith Walkingpad C2 Pro - Beyaz",
-      "category": "other",
+      "category": "walking",
       "url": "https://www.walkingpadturkiye.com/walkingpad-c2-pro-katlanabilir-yurume-bandi-4-farkli-renk-secenegi-beyaz-9",
       "image": "https://static.ticimax.cloud/cdn-cgi/image/width=548,quality=85/64706/uploads/urunresimleri/buyuk/walkingpad-c2-pro-katlanabilir-yurume--4e60-8.jpg",
       "specs": {
@@ -825,31 +983,76 @@
         "20gp": "250",
         "40gp": "538",
         "40hq": "583",
-        "note": "Handrail optional"
+        "note": "Handrail optional",
+        "Maks. Kullanıcı Ağırlığı": "100 kg",
+        "Net Ağırlık": "25 kg",
+        "Brüt Ağırlık": "28 kg",
+        "Yürüyüş Alanı": "120 × 40 cm",
+        "Açık Ölçü": "144.5 × 51.8 × 12.5 cm",
+        "Katlı Ölçü": "82.5 × 51.8 × 13.6 cm",
+        "Güç (Nominal)": "Brushless 1bg 735W",
+        "Global Model": "C2 / S1"
       },
-      "category_tr": "other"
+      "category_tr": "Yürüyüş Bandı",
+      "global_name": "WalkingPad C2 (S1)",
+      "global_models": [
+        "C2",
+        "S1"
+      ]
     },
     {
       "id": "walkingpad-z1-katlanabilir-yurume-bandi-39",
       "name": "Kingsmith WalkingPad Z1 - Siyah",
-      "category": "other",
+      "category": "walking",
       "url": "https://www.walkingpadturkiye.com/walkingpad-z1-katlanabilir-yurume-bandi-39",
       "image": "https://static.ticimax.cloud/cdn-cgi/image/width=548,quality=85/64706/uploads/urunresimleri/buyuk/kingsmith-walkingpad-z1-katlanabilir-y-5-982c.gif",
       "specs": {},
       "specs_source": null,
-      "specs_tr": {},
-      "category_tr": "other"
+      "specs_tr": {
+        "Açık Ölçü": "142.5 × 55.9 × 10.4 cm",
+        "Katlı Ölçü": "90.4 × 63.5 × 19.8 cm",
+        "Yürüyüş Alanı": "120.9 × 40.1 cm",
+        "Hız Aralığı": "1 – 6 km/s",
+        "Motor": "0.75HP (brushless)",
+        "Net Ağırlık": "23 kg",
+        "Brüt Ağırlık": "27.5 kg",
+        "Maks. Kullanıcı Ağırlığı": "110 kg",
+        "Katlanabilir": "Evet",
+        "Kurulum": "Kurulu (montaj gerektirmez)",
+        "Global Model": "Z1"
+      },
+      "category_tr": "Yürüyüş Bandı",
+      "global_name": "WalkingPad Z1",
+      "global_models": [
+        "Z1"
+      ]
     },
     {
       "id": "walkingpad-z1-yurume-bandi-white",
       "name": "Kingsmith WalkingPad Z1 - Beyaz",
-      "category": "other",
+      "category": "walking",
       "url": "https://www.walkingpadturkiye.com/walkingpad-z1-yurume-bandi-white",
       "image": "https://static.ticimax.cloud/cdn-cgi/image/width=548,quality=85/64706/uploads/urunresimleri/buyuk/walkingpad-z1-katlanabilir-yurume-band--1950-.png",
       "specs": {},
       "specs_source": null,
-      "specs_tr": {},
-      "category_tr": "other"
+      "specs_tr": {
+        "Açık Ölçü": "142.5 × 55.9 × 10.4 cm",
+        "Katlı Ölçü": "90.4 × 63.5 × 19.8 cm",
+        "Yürüyüş Alanı": "120.9 × 40.1 cm",
+        "Hız Aralığı": "1 – 6 km/s",
+        "Motor": "0.75HP (brushless)",
+        "Net Ağırlık": "23 kg",
+        "Brüt Ağırlık": "27.5 kg",
+        "Maks. Kullanıcı Ağırlığı": "110 kg",
+        "Katlanabilir": "Evet",
+        "Kurulum": "Kurulu (montaj gerektirmez)",
+        "Global Model": "Z1"
+      },
+      "category_tr": "Yürüyüş Bandı",
+      "global_name": "WalkingPad Z1",
+      "global_models": [
+        "Z1"
+      ]
     },
     {
       "id": "walkingpad-x21-katlanabilir-yurume-ve-kosu-bandi-15",
@@ -927,7 +1130,14 @@
         "Koli Ölçüsü": "110,2*79,5*26,4 cm",
         "20gp": "126",
         "40gp": "264",
-        "40hq": "300"
+        "40hq": "300",
+        "Maks. Kullanıcı Ağırlığı": "110 kg",
+        "Net Ağırlık": "37 kg",
+        "Brüt Ağırlık": "42 kg",
+        "Koşu Alanı": "121 × 46 cm",
+        "Açık Ölçü": "142.0 × 72 × 102 cm",
+        "Katlı Ölçü": "71 × 95.5 × 22.6 cm",
+        "Güç (Nominal)": "Brushless 1,25bg 918W"
       },
       "category_tr": "Koşu Bandı"
     },
@@ -940,7 +1150,7 @@
       "specs": {
         "product": "G1",
         "model": "TRG1F",
-        "colour": "1. Black",
+        "colour": "Siyah",
         "category": "Treadmill",
         "motor": "Brushless 1HP 735W",
         "speed": "1-12km/h",
@@ -978,7 +1188,7 @@
       "specs_tr": {
         "Ürün": "G1",
         "Model": "TRG1F",
-        "Renk": "1. Black",
+        "Renk": "Siyah",
         "Kategori": "Treadmill",
         "Motor": "Brushless 1bg 735W",
         "Hız": "1-12km/s",
@@ -1007,7 +1217,12 @@
         "Koli Ölçüsü": "105,6*78,8*24 cm",
         "20gp": "124",
         "40gp": "250",
-        "40hq": "324pcs"
+        "40hq": "324pcs",
+        "Maks. Kullanıcı Ağırlığı": "110 kg",
+        "Net Ağırlık": "38 kg",
+        "Brüt Ağırlık": "43 kg",
+        "Koşu Alanı": "120 × 44 cm",
+        "Güç (Nominal)": "Brushless 1bg 735W"
       },
       "category_tr": "Koşu Bandı"
     },
@@ -1020,7 +1235,7 @@
       "specs": {
         "product": "MC21",
         "model": "TRMC21F",
-        "colour": "1. Black",
+        "colour": "Siyah",
         "category": "Walkingpad&Treadmill",
         "motor": "Brushless 1HP 735W",
         "speed": "1-12 km/h",
@@ -1058,7 +1273,7 @@
       "specs_tr": {
         "Ürün": "MC21",
         "Model": "TRMC21F",
-        "Renk": "1. Black",
+        "Renk": "Siyah",
         "Kategori": "Walkingpad&Treadmill",
         "Motor": "Brushless 1bg 735W",
         "Hız": "1-12 km/s",
@@ -1087,7 +1302,12 @@
         "Koli Ölçüsü": "112*77,5*21,5 cm",
         "20gp": "165pcs",
         "40gp": "330pcs",
-        "40hq": "385pcs"
+        "40hq": "385pcs",
+        "Maks. Kullanıcı Ağırlığı": "110 kg",
+        "Net Ağırlık": "37.5 kg",
+        "Brüt Ağırlık": "42.5 kg",
+        "Koşu Alanı": "120 × 44 cm",
+        "Güç (Nominal)": "Brushless 1bg 735W"
       },
       "category_tr": "Koşu Bandı"
     },
@@ -1162,7 +1382,7 @@
         "g_w": "46 Kg",
         "maximum_user_weight": "150 Kg;150,1 kg",
         "maximum_user_height": "225 cm/225,0 cm",
-        "Gövde Malzemesi": "Rubber wood",
+        "Gövde Malzemesi": "Rubberwood",
         "footrest_adjustable_range": "65 mm/6,5 cm",
         "minimum_footprint": "0,28㎡",
         "grip_length": "420 mm/42,0 cm",
@@ -1193,9 +1413,30 @@
         "Koli Ölçüsü": "80*56*64 cm",
         "20gp": "84",
         "40gp": "180",
-        "40hq": "240"
+        "40hq": "240",
+        "Maks. Kullanıcı Ağırlığı": "331 lbs (150 kg)",
+        "Net Ağırlık": "40 kg",
+        "Brüt Ağırlık": "46 kg",
+        "Güç (Nominal)": "Hayır",
+        "Direnç Tipi": "Su direnci",
+        "Ahşap": "Red Oak / Walnut",
+        "Ray Uzunluğu": "49.21\" (125.0 cm)",
+        "Tutma Kolu Uzunluğu": "16.54\" (42.0 cm)",
+        "Kanat Sayısı": "12",
+        "Su Kapasitesi": "1.85–2.91 gal (7.0–11.0 L)",
+        "Dijital Direnç": "Yok",
+        "Direnç Kuvveti": "800 N",
+        "Güç Kaynağı": "AA pil ×2",
+        "Açık Ölçü": "81.50\" × 18.90\" × 22.83\" (207.0 × 48.0 × 58.0 cm)",
+        "Katlı Ölçü": "28.94\" × 18.90\" × 22.83\" (73.5 × 48.0 × 58.0 cm)"
       },
-      "category_tr": "Kondisyon Küreği"
+      "category_tr": "Kürek",
+      "model": "WR20",
+      "brand": "KingSmith",
+      "title_tr": "KingSmith WR20 Katlanabilir Su Küreği",
+      "title": "KingSmith WR20 Katlanabilir Su Küreği",
+      "color_tr": "Kırmızı Meşe",
+      "url_global": "https://www.walkingpad.com/collections/foldable-rower"
     },
     {
       "id": "walkingpad-wr20-3-kez-katlanabilir-su-direncli-kondisyon-kuregi-ahsap-rengi-43",
@@ -1268,7 +1509,7 @@
         "g_w": "46 Kg",
         "maximum_user_weight": "150 Kg;150,1 kg",
         "maximum_user_height": "225 cm/225,0 cm",
-        "Gövde Malzemesi": "Rubber wood",
+        "Gövde Malzemesi": "Rubberwood",
         "footrest_adjustable_range": "65 mm/6,5 cm",
         "minimum_footprint": "0,28㎡",
         "grip_length": "420 mm/42,0 cm",
@@ -1299,9 +1540,30 @@
         "Koli Ölçüsü": "80*56*64 cm",
         "20gp": "84",
         "40gp": "180",
-        "40hq": "240"
+        "40hq": "240",
+        "Maks. Kullanıcı Ağırlığı": "331 lbs (150 kg)",
+        "Net Ağırlık": "40 kg",
+        "Brüt Ağırlık": "46 kg",
+        "Güç (Nominal)": "Hayır",
+        "Direnç Tipi": "Su direnci",
+        "Ahşap": "Red Oak / Walnut",
+        "Ray Uzunluğu": "49.21\" (125.0 cm)",
+        "Tutma Kolu Uzunluğu": "16.54\" (42.0 cm)",
+        "Kanat Sayısı": "12",
+        "Su Kapasitesi": "1.85–2.91 gal (7.0–11.0 L)",
+        "Dijital Direnç": "Yok",
+        "Direnç Kuvveti": "800 N",
+        "Güç Kaynağı": "AA pil ×2",
+        "Açık Ölçü": "81.50\" × 18.90\" × 22.83\" (207.0 × 48.0 × 58.0 cm)",
+        "Katlı Ölçü": "28.94\" × 18.90\" × 22.83\" (73.5 × 48.0 × 58.0 cm)"
       },
-      "category_tr": "Kondisyon Küreği"
+      "category_tr": "Kürek",
+      "model": "WR20",
+      "brand": "KingSmith",
+      "title_tr": "KingSmith WR20 Katlanabilir Su Küreği",
+      "title": "KingSmith WR20 Katlanabilir Su Küreği",
+      "color_tr": "Ahşap",
+      "url_global": "https://www.walkingpad.com/collections/foldable-rower"
     },
     {
       "id": "walkingpad-wm10-3-kez-katlanabilir-su-direncli-kondisyon-kuregi-ceviz-rengi",
@@ -1374,7 +1636,7 @@
         "g_w": "40 Kg",
         "maximum_user_weight": "150 Kg; 150,1 kg",
         "maximum_user_height": "225 cm/225,0 cm",
-        "Gövde Malzemesi": "Rubber wood",
+        "Gövde Malzemesi": "Rubberwood",
         "footrest_adjustable_range": "65 mm/6,5 cm",
         "minimum_footprint": "0,28㎡",
         "grip_length": "420 mm/42,0 cm",
@@ -1405,9 +1667,30 @@
         "Koli Ölçüsü": "79*53*63 cm",
         "20gp": "84",
         "40gp": "180",
-        "40hq": "240"
+        "40hq": "240",
+        "Maks. Kullanıcı Ağırlığı": "331 lbs (150 kg)",
+        "Net Ağırlık": "36 kg",
+        "Brüt Ağırlık": "40 kg",
+        "Güç (Nominal)": "Hayır",
+        "Direnç Tipi": "Manyetik + Su direnci",
+        "Ahşap": "Red Oak / Walnut",
+        "Ray Uzunluğu": "49.21\" (125.0 cm)",
+        "Tutma Kolu Uzunluğu": "16.54\" (42.0 cm)",
+        "Kanat Sayısı": "4",
+        "Su Kapasitesi": "2.91–3.96 gal (11.0–15.0 L)",
+        "Dijital Direnç": "32 seviye",
+        "Direnç Kuvveti": "350–500 N",
+        "Güç Kaynağı": "Adaptör (Plug-in)",
+        "Açık Ölçü": "81.50\" × 18.90\" × 22.83\" (207.0 × 48.0 × 58.0 cm)",
+        "Katlı Ölçü": "28.94\" × 18.90\" × 22.83\" (73.5 × 48.0 × 58.0 cm)"
       },
-      "category_tr": "Kondisyon Küreği"
+      "category_tr": "Kürek",
+      "model": "WM10",
+      "brand": "KingSmith",
+      "title_tr": "KingSmith WM10 Katlanabilir Su Küreği",
+      "title": "KingSmith WM10 Katlanabilir Su Küreği",
+      "color_tr": "Ceviz",
+      "url_global": "https://www.walkingpad.com/collections/foldable-rower"
     },
     {
       "id": "walkingpad-wm10-3-kez-katlanabilir-su-direncli-kondisyon-kuregi-kirmizi-mese-ren",
@@ -1480,7 +1763,7 @@
         "g_w": "40 Kg",
         "maximum_user_weight": "150 Kg; 150,1 kg",
         "maximum_user_height": "225 cm/225,0 cm",
-        "Gövde Malzemesi": "Rubber wood",
+        "Gövde Malzemesi": "Rubberwood",
         "footrest_adjustable_range": "65 mm/6,5 cm",
         "minimum_footprint": "0,28㎡",
         "grip_length": "420 mm/42,0 cm",
@@ -1511,9 +1794,30 @@
         "Koli Ölçüsü": "79*53*63 cm",
         "20gp": "84",
         "40gp": "180",
-        "40hq": "240"
+        "40hq": "240",
+        "Maks. Kullanıcı Ağırlığı": "331 lbs (150 kg)",
+        "Net Ağırlık": "36 kg",
+        "Brüt Ağırlık": "40 kg",
+        "Güç (Nominal)": "Hayır",
+        "Direnç Tipi": "Manyetik + Su direnci",
+        "Ahşap": "Red Oak / Walnut",
+        "Ray Uzunluğu": "49.21\" (125.0 cm)",
+        "Tutma Kolu Uzunluğu": "16.54\" (42.0 cm)",
+        "Kanat Sayısı": "4",
+        "Su Kapasitesi": "2.91–3.96 gal (11.0–15.0 L)",
+        "Dijital Direnç": "32 seviye",
+        "Direnç Kuvveti": "350–500 N",
+        "Güç Kaynağı": "Adaptör (Plug-in)",
+        "Açık Ölçü": "81.50\" × 18.90\" × 22.83\" (207.0 × 48.0 × 58.0 cm)",
+        "Katlı Ölçü": "28.94\" × 18.90\" × 22.83\" (73.5 × 48.0 × 58.0 cm)"
       },
-      "category_tr": "Kondisyon Küreği"
+      "category_tr": "Kürek",
+      "model": "WM10",
+      "brand": "KingSmith",
+      "title_tr": "KingSmith WM10 Katlanabilir Su Küreği",
+      "title": "KingSmith WM10 Katlanabilir Su Küreği",
+      "color_tr": "Kırmızı Meşe",
+      "url_global": "https://www.walkingpad.com/collections/foldable-rower"
     },
     {
       "id": "wero-yapay-zeka-destekli-akilli-kondisyon-bisikleti-pro",
@@ -1591,7 +1895,9 @@
         "Koli Ölçüsü": "48*30*33 cm",
         "20gp": "590",
         "40gp": "982",
-        "40hq": "982"
+        "40hq": "982",
+        "Net Ağırlık": "27 kg",
+        "Brüt Ağırlık": "28,5 kg"
       },
       "category_tr": "Ayarlı Dambıl"
     },
@@ -1627,6 +1933,122 @@
       "specs_source": null,
       "specs_tr": {},
       "category_tr": "Fitness Bench"
+    },
+    {
+      "id": "kingsmith-w1b-3u-1-arada-katlanabilir-egzersiz-bisikleti",
+      "name": "KingSmith W1B 3'ü 1 Arada Katlanabilir Egzersiz Bisikleti",
+      "category": "bike",
+      "category_tr": "Bisiklet",
+      "url": "https://www.walkingpadturkiye.com/kingsmith-w1b-3u-1-arada-katlanabilir-egzersiz-bisikleti-masa-alti-kullanimina-uygun",
+      "image": "",
+      "specs": {
+        "product": "Foldable Exercise Bike",
+        "model": "W1B",
+        "category": "bike",
+        "resistance_levels": "8",
+        "resistance_adjustment": "Mechanical knob",
+        "safestop_button": "Yes",
+        "electricity": "No",
+        "drive": "Double-geared drive",
+        "gearing": "Magnetic resistance",
+        "flywheel_weight": "2.5 kg",
+        "max_user_weight": "120 kg",
+        "unfolding_size": "910 × 545 × 1185 mm",
+        "folding_size": "705 × 475 × 780 mm",
+        "outer_packing_box_size": "785 × 275 × 865 mm",
+        "net_weight": "29.9 kg",
+        "gross_weight": "34.6 kg",
+        "container_quantity": "40HC/HQ - 360 pcs",
+        "desktop_size": "546 × 323 mm",
+        "desktop_lifting_range": "363 mm",
+        "seat_lifting_range": "270 mm",
+        "seat_front_back_adjustment": "60 mm"
+      },
+      "specs_source": {
+        "type": "screenshot",
+        "notes": "User-provided tech specs screenshot for W1B"
+      },
+      "specs_tr": {
+        "Ürün": "Katlanabilir Egzersiz Bisikleti",
+        "Model": "W1B",
+        "Kategori": "Bisiklet (Masa Altı)",
+        "Direnç Seviyesi": "8 seviye",
+        "Direnç Ayarı": "Mekanik düğme",
+        "SafeStop Butonu": "Var",
+        "Elektrik": "Gerektirmez",
+        "Aktarma": "Çift dişli (double‑geared) tahrik",
+        "Direnç Tipi": "Manyetik direnç",
+        "Volan Ağırlığı": "2.5 kg",
+        "Maks. Kullanıcı Ağırlığı": "120 kg",
+        "Açık Ölçü": "910 × 545 × 1185 mm",
+        "Katlı Ölçü": "705 × 475 × 780 mm",
+        "Koli Ölçüsü": "785 × 275 × 865 mm",
+        "Net Ağırlık": "29.9 kg",
+        "Brüt Ağırlık": "34.6 kg",
+        "Konteyner Adedi": "40HC/HQ - 360 adet",
+        "Masa Üstü Boyutu": "546 × 323 mm",
+        "Masa Üstü Yükseklik Aralığı": "363 mm",
+        "Sele Yükseklik Aralığı": "270 mm",
+        "Sele İleri/Geri Ayarı": "60 mm"
+      }
+    },
+    {
+      "id": "kingsmith-wr1-katlanabilir-su-kuregi",
+      "name": "KingSmith WR1 Katlanabilir Su Küreği",
+      "category": "rower",
+      "category_tr": "Kürek",
+      "url": "https://www.walkingpadturkiye.com/walkingpad-3-kez-katlanabilir-su-direncli-kondisyon-kuregi-29",
+      "image": "",
+      "specs": {
+        "product": "Tri-fold Water Rowing Machine",
+        "model": "WR1",
+        "category": "rower",
+        "resistance_type": "Su direnci",
+        "material": "Rubberwood",
+        "wood": "Red Oak",
+        "max_user_weight": "265 lbs",
+        "track_length": "46.06\"",
+        "handle_length": "12.60\"",
+        "blades": "4",
+        "water_capacity": "2.91–3.96 gal",
+        "digital_resistance_levels": "",
+        "resistance_force": "300 N",
+        "power_source": "AA pil ×2",
+        "unfolding_size": "76.38\" × 19.69\" × 22.83\"",
+        "folding_size": "26.77\" × 19.69\" × 22.83\"",
+        "container_quantity": "40HC - 280 pcs"
+      },
+      "specs_source": {
+        "type": "screenshot",
+        "notes": "User-provided rower comparison screenshot (WR1/WM10/WR20)"
+      },
+      "specs_tr": {
+        "Ürün": "3 Katlı Katlanabilir Su Küreği",
+        "Model": "WR1",
+        "Kategori": "Kürek",
+        "Direnç Tipi": "Su direnci",
+        "Gövde Malzemesi": "Rubberwood",
+        "Ahşap": "Red Oak",
+        "Maks. Kullanıcı Ağırlığı": "265 lbs (120 kg)",
+        "Ray Uzunluğu": "46.06\" (117.0 cm)",
+        "Tutma Kolu Uzunluğu": "12.60\" (32.0 cm)",
+        "Kanat Sayısı": "4",
+        "Su Kapasitesi": "2.91–3.96 gal (11.0–15.0 L)",
+        "Dijital Direnç": "Yok",
+        "Direnç Kuvveti": "300 N",
+        "Güç Kaynağı": "AA pil ×2",
+        "Açık Ölçü": "76.38\" × 19.69\" × 22.83\" (194.0 × 50.0 × 58.0 cm)",
+        "Katlı Ölçü": "26.77\" × 19.69\" × 22.83\" (68.0 × 50.0 × 58.0 cm)",
+        "Konteyner Adedi": "40HC - 280 pcs",
+        "Global Model": "WR1"
+      },
+      "model": "WR1",
+      "brand": "KingSmith",
+      "title_tr": "KingSmith WR1 Katlanabilir Su Küreği",
+      "title": "KingSmith WR1 Katlanabilir Su Küreği",
+      "url_global": "https://www.walkingpad.com/collections/foldable-rower",
+      "url_tr": "https://www.walkingpadturkiye.com/walkingpad-3-kez-katlanabilir-su-direncli-kondisyon-kuregi-29",
+      "handle": "walkingpad-3-kez-katlanabilir-su-direncli-kondisyon-kuregi-29"
     }
   ],
   "label_map_tr": {
@@ -1661,13 +2083,36 @@
     "rowing_machine": "Kondisyon Küreği",
     "bike": "Bisiklet",
     "bench": "Bench",
-    "dumbbell": "Dambıl"
+    "dumbbell": "Dambıl",
+    "resistance_levels": "Direnç Seviyesi",
+    "resistance_adjustment": "Direnç Ayarı",
+    "safestop_button": "SafeStop Butonu",
+    "electricity": "Elektrik",
+    "drive": "Aktarma",
+    "gearing": "Direnç Tipi",
+    "flywheel_weight": "Volan Ağırlığı",
+    "desktop_size": "Masa Üstü Boyutu",
+    "desktop_lifting_range": "Masa Üstü Yükseklik Aralığı",
+    "seat_lifting_range": "Sele Yükseklik Aralığı",
+    "seat_front_back_adjustment": "Sele İleri/Geri Ayarı",
+    "resistance_type": "Direnç Tipi",
+    "track_length": "Ray Uzunluğu",
+    "handle_length": "Tutma Kolu Uzunluğu",
+    "blades": "Kanat Sayısı",
+    "water_capacity": "Su Kapasitesi",
+    "digital_resistance_levels": "Dijital Direnç",
+    "resistance_force": "Direnç Kuvveti",
+    "power_source": "Güç Kaynağı",
+    "container_quantity": "Konteyner Adedi"
   },
   "notes": [
     "specs alanı, 'WalkingPad 2025 Product comparison sheet.xlsx' içindeki ilgili sheet satırından normalize edilerek üretildi.",
     "specs_source.sheet + specs_source.product_code eşleşen ürünlerde doludur; eşleşmeyenlerde specs boş bırakılmıştır (ileride manuel/otomatik tamamlanabilir).",
     "category, TR ürün adından türetildi: walking/running/hybrid/rower/bike/bench/dumbbell.",
     "specs_tr alanı: teknik özellik anahtarları Türkçe etiketlere dönüştürüldü, değerlerde birim/ifadeler TR formatına uyarlanmıştır (lbs->kg, in->cm, mph->km/s, hp->bg, ondalık '.'->',').",
-    "Mevcut değerler metinsel olduğundan dönüşümler kalıp yakalama ile yapılmıştır; çok istisnai formatlar için manuel kontrol gerekebilir."
+    "Mevcut değerler metinsel olduğundan dönüşümler kalıp yakalama ile yapılmıştır; çok istisnai formatlar için manuel kontrol gerekebilir.",
+    "2026-01-14: Açık/Katlı ölçüler ve Yürüyüş/Koşu alanı eksikleri WalkingPad resmi karşılaştırma sayfasından (inch->cm) ve eski benchmarking dosyasından dolduruldu.",
+    "specs_tr içinde karşılaştırma tablosunun beklediği anahtarlar üretildi: 'Açık Ölçü', 'Katlı Ölçü', 'Yürüyüş Alanı'/'Koşu Alanı', 'Net Ağırlık', 'Brüt Ağırlık', 'Maks. Kullanıcı Ağırlığı', 'Güç (Nominal)'.",
+    "Added KingSmith W1B bike and WR1/WM10/WR20 rowers from user-provided screenshots."
   ]
 }
