@@ -186,7 +186,7 @@
         "product": "R2",
         "model": "TRR2FB",
         "colour": "Siyah",
-        "category": "Walkingpad&Treadmill",
+        "category": "hybrid",
         "motor": "Brushless 1.25HP 918W",
         "speed": "0.5-12 km/h",
         "running_surface": "120×44cm",
@@ -261,7 +261,7 @@
         "Katlı Ölçü": "100 × 72 × 16.2 cm",
         "Güç (Nominal)": "Brushless 1,25bg 918W"
       },
-      "category_tr": "Yürüyüş + Koşu (2’si 1 arada)"
+      "category_tr": "Yürüyüş + Koşu (2’si 1 Arada)"
     },
     {
       "id": "walkingpad-z3-hybrid-katlanabilir-kosu-bandi",
@@ -273,7 +273,7 @@
         "product": "Z3 hybrid+",
         "model": "WP400Q42",
         "colour": "Siyah",
-        "category": "Walkingpad&Treadmill",
+        "category": "hybrid",
         "motor": "Brushless 1HP 735W",
         "speed": "1-10 km/h",
         "running_surface": "120*40cm",
@@ -348,7 +348,7 @@
         "Katlı Ölçü": "100.8 × 76.5 × 19.3 cm",
         "Güç (Nominal)": "Brushless 1bg 735W"
       },
-      "category_tr": "Yürüyüş + Koşu (2’si 1 arada)"
+      "category_tr": "Yürüyüş + Koşu (2’si 1 Arada)"
     },
     {
       "id": "walkingpad-r1-pro-katlanabilir-kosu-ve-yuruyus-bandi-global-versiyon-6",
@@ -360,7 +360,7 @@
         "product": "R1 Pro",
         "model": "TRR1F PRO",
         "colour": "Siyah\n2. Silver grey",
-        "category": "Walkingpad&Treadmill",
+        "category": "hybrid",
         "motor": "Brushless 1.25HP 918W",
         "speed": "0.5-10 km/h",
         "running_surface": "120×44cm",
@@ -435,7 +435,7 @@
         "Katlı Ölçü": "98 × 72 × 15.5 cm",
         "Güç (Nominal)": "Brushless 1,25bg 918W"
       },
-      "category_tr": "Yürüyüş + Koşu (2’si 1 arada)"
+      "category_tr": "Yürüyüş + Koşu (2’si 1 Arada)"
     },
     {
       "id": "walkingpad-a1-pro-katlanabilir-yurume-bandi-global-versiyon-5",
@@ -536,7 +536,7 @@
         "product": "C2",
         "model": "WPS1F",
         "colour": "1.Black \n2.White \n3.Grey \n4.Red \n5.Yellow \n6.Blue",
-        "category": "Walkingpad",
+        "category": "walking",
         "motor": "Brushless 1HP 735W",
         "speed": "0.5-6 km/h",
         "running_surface": "120×40cm",
@@ -614,7 +614,7 @@
         "Güç (Nominal)": "Brushless 1bg 735W",
         "Global Model": "C2 / S1"
       },
-      "category_tr": "other",
+      "category_tr": "Yürüyüş Bandı",
       "global_name": "WalkingPad C2 (S1)",
       "global_models": [
         "C2",
@@ -624,14 +624,14 @@
     {
       "id": "walkingpad-c2-pro-katlanabilir-yurume-bandi-4-farkli-renk-secenegi-kirmizi-10",
       "name": "Kingsmith Walkingpad C2 Pro - Kırmızı",
-      "category": "other",
+      "category": "walking",
       "url": "https://www.walkingpadturkiye.com/walkingpad-c2-pro-katlanabilir-yurume-bandi-4-farkli-renk-secenegi-kirmizi-10",
       "image": "https://static.ticimax.cloud/cdn-cgi/image/width=548,quality=85/64706/uploads/urunresimleri/buyuk/walkingpad-c2-pro-katlanabilir-yurume--388-43.jpg",
       "specs": {
         "product": "C2",
         "model": "WPS1F",
         "colour": "1.Black \n2.White \n3.Grey \n4.Red \n5.Yellow \n6.Blue",
-        "category": "Walkingpad",
+        "category": "walking",
         "motor": "Brushless 1HP 735W",
         "speed": "0.5-6 km/h",
         "running_surface": "120×40cm",
@@ -725,7 +725,7 @@
         "product": "C2",
         "model": "WPS1F",
         "colour": "1.Black \n2.White \n3.Grey \n4.Red \n5.Yellow \n6.Blue",
-        "category": "Walkingpad",
+        "category": "walking",
         "motor": "Brushless 1HP 735W",
         "speed": "0.5-6 km/h",
         "running_surface": "120×40cm",
@@ -820,7 +820,7 @@
         "product": "C2",
         "model": "WPS1F",
         "colour": "1.Black \n2.White \n3.Grey \n4.Red \n5.Yellow \n6.Blue",
-        "category": "Walkingpad",
+        "category": "walking",
         "motor": "Brushless 1HP 735W",
         "speed": "0.5-6 km/h",
         "running_surface": "120×40cm",
@@ -915,7 +915,7 @@
         "product": "C2",
         "model": "WPS1F",
         "colour": "1.Black \n2.White \n3.Grey \n4.Red \n5.Yellow \n6.Blue",
-        "category": "Walkingpad",
+        "category": "walking",
         "motor": "Brushless 1HP 735W",
         "speed": "0.5-6 km/h",
         "running_surface": "120×40cm",
@@ -1006,7 +1006,9 @@
       "category": "walking",
       "url": "https://www.walkingpadturkiye.com/walkingpad-z1-katlanabilir-yurume-bandi-39",
       "image": "https://static.ticimax.cloud/cdn-cgi/image/width=548,quality=85/64706/uploads/urunresimleri/buyuk/kingsmith-walkingpad-z1-katlanabilir-y-5-982c.gif",
-      "specs": {},
+      "specs": {
+        "category": "walking"
+      },
       "specs_source": null,
       "specs_tr": {
         "Açık Ölçü": "142.5 × 55.9 × 10.4 cm",
@@ -1033,7 +1035,9 @@
       "category": "walking",
       "url": "https://www.walkingpadturkiye.com/walkingpad-z1-yurume-bandi-white",
       "image": "https://static.ticimax.cloud/cdn-cgi/image/width=548,quality=85/64706/uploads/urunresimleri/buyuk/walkingpad-z1-katlanabilir-yurume-band--1950-.png",
-      "specs": {},
+      "specs": {
+        "category": "walking"
+      },
       "specs_source": null,
       "specs_tr": {
         "Açık Ölçü": "142.5 × 55.9 × 10.4 cm",
