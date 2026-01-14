@@ -2015,7 +2015,16 @@
       "category": "bench",
       "url": "https://www.walkingpadturkiye.com/kingsmith-cok-fonsiyonlu-agirlik-sehpasi-bench-ultimate-36",
       "image": "https://static.ticimax.cloud/64706/Uploads/UrunResimleri/buyuk/kingsmith-cok-fonsiyonlu-agirlik-sehpa-c-7442.jpg",
-      "specs": {},
+      "specs": {
+        "category": "bench",
+        "product": "FBB1C",
+        "model": "FBB1C",
+        "maximum_user_weight": "150 kg",
+        "unfolded_dimensions": "1170*1415*1105 mm",
+        "folded_dimension": "1170*340*415 mm",
+        "n_w": "36 kg",
+        "g_w": "39 kg"
+      },
       "specs_source": null,
       "specs_tr": {
         "Ürün Adı": "Spor Salonu Minderi - Gym Bench",
@@ -2026,11 +2035,19 @@
         "Maksimum Yük": "150 kg",
         "Katlanmış Boyut": "1170 × 340 × 415 mm",
         "Açılmış Boyut": "1170 × 1415 × 1105 mm",
-        "Net Ağırlık": "—",
-        "Brüt Ağırlık": "—",
-        "Karton Boyutu": "1170 × 340 × 415 mm"
+        "Net Ağırlık": "36 kg",
+        "Brüt Ağırlık": "39 kg",
+        "Karton Boyutu": "1170 × 340 × 415 mm",
+        "Kategori": "Fitness Bench",
+        "Maks. Kullanıcı Ağırlığı": "150 kg",
+        "Katlı Ölçü": "1170 × 340 × 415 mm",
+        "Açık Ölçü": "1170 × 1415 × 1105 mm",
+        "Global Model": "FBB1C",
+        "Model": "FBB1C",
+        "Versiyon": "Ultimate"
       },
-      "category_tr": "Fitness Bench"
+      "category_tr": "Fitness Bench",
+      "model_code": "FBB1C"
     },
     {
       "id": "kingsmith-egzersiz-benchi-premium-35",
@@ -2038,7 +2055,16 @@
       "category": "bench",
       "url": "https://www.walkingpadturkiye.com/kingsmith-egzersiz-benchi-premium-35",
       "image": "https://static.ticimax.cloud/cdn-cgi/image/width=548,quality=85/64706/uploads/urunresimleri/buyuk/kingsmith-cok-fonsiyonlu-agirlik-sehpa--c249-.jpg",
-      "specs": {},
+      "specs": {
+        "category": "bench",
+        "product": "FBB1B",
+        "model": "FBB1B",
+        "maximum_user_weight": "150 kg",
+        "unfolded_dimensions": "1170*1415*1105 mm",
+        "folded_dimension": "1170*340*415 mm",
+        "n_w": "27 kg",
+        "g_w": "30 kg"
+      },
       "specs_source": null,
       "specs_tr": {
         "Ürün Adı": "Spor Salonu Minderi - Gym Bench",
@@ -2049,11 +2075,19 @@
         "Maksimum Yük": "150 kg",
         "Katlanmış Boyut": "1170 × 340 × 415 mm",
         "Açılmış Boyut": "1170 × 1415 × 1105 mm",
-        "Net Ağırlık": "—",
-        "Brüt Ağırlık": "—",
-        "Karton Boyutu": "1170 × 340 × 415 mm"
+        "Net Ağırlık": "27 kg",
+        "Brüt Ağırlık": "30 kg",
+        "Karton Boyutu": "1170 × 340 × 415 mm",
+        "Kategori": "Fitness Bench",
+        "Maks. Kullanıcı Ağırlığı": "150 kg",
+        "Katlı Ölçü": "1170 × 340 × 415 mm",
+        "Açık Ölçü": "1170 × 1415 × 1105 mm",
+        "Global Model": "FBB1B",
+        "Model": "FBB1B",
+        "Versiyon": "Premium"
       },
-      "category_tr": "Fitness Bench"
+      "category_tr": "Fitness Bench",
+      "model_code": "FBB1B"
     },
     {
       "id": "kingsmith-cok-fonsiyonlu-agirlik-sehpasi-bench-basic-34",
@@ -2061,7 +2095,16 @@
       "category": "bench",
       "url": "https://www.walkingpadturkiye.com/kingsmith-cok-fonsiyonlu-agirlik-sehpasi-bench-basic-34",
       "image": "https://static.ticimax.cloud/cdn-cgi/image/width=548,quality=85/64706/uploads/urunresimleri/buyuk/kingsmith-cok-fonsiyonlu-agirlik-sehpa-166-4d.jpg",
-      "specs": {},
+      "specs": {
+        "category": "bench",
+        "product": "FBB1A",
+        "model": "FBB1A",
+        "maximum_user_weight": "150 kg",
+        "unfolded_dimensions": "1170*1415*1105 mm",
+        "folded_dimension": "1170*340*415 mm",
+        "n_w": "26 kg",
+        "g_w": "29 kg"
+      },
       "specs_source": null,
       "specs_tr": {
         "Ürün Adı": "Spor Salonu Minderi - Gym Bench",
@@ -2072,11 +2115,19 @@
         "Maksimum Yük": "150 kg",
         "Katlanmış Boyut": "1170 × 340 × 415 mm",
         "Açılmış Boyut": "1170 × 1415 × 1105 mm",
-        "Net Ağırlık": "—",
-        "Brüt Ağırlık": "—",
-        "Karton Boyutu": "1170 × 340 × 415 mm"
+        "Net Ağırlık": "26 kg",
+        "Brüt Ağırlık": "29 kg",
+        "Karton Boyutu": "1170 × 340 × 415 mm",
+        "Kategori": "Fitness Bench",
+        "Maks. Kullanıcı Ağırlığı": "150 kg",
+        "Katlı Ölçü": "1170 × 340 × 415 mm",
+        "Açık Ölçü": "1170 × 1415 × 1105 mm",
+        "Global Model": "FBB1A",
+        "Model": "FBB1A",
+        "Versiyon": "Basic"
       },
-      "category_tr": "Fitness Bench"
+      "category_tr": "Fitness Bench",
+      "model_code": "FBB1A"
     },
     {
       "id": "kingsmith-w1b-3u-1-arada-katlanabilir-egzersiz-bisikleti",
